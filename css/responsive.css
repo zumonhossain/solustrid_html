@@ -1,0 +1,524 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .top-left-text p {
+        font-size: 14px;
+    }
+    .top-social {
+        text-align: center;
+    }
+    .main-menu ul li {
+        margin-left: 20px;
+    }
+    .btn {
+        display: inline-block;
+        font-size: 14px;
+        padding: 15px 15px;
+    }
+    .right-btn span a i {
+        margin-right: 20px;
+    }
+    .counter-box {
+        padding: 15px 0px;
+    }
+    .counter-box h5 {
+        font-size: 14px;
+    }
+    .single-machine {
+        margin-bottom: 50px;
+    }
+    .about-list ul li {
+        font-size: 14px;
+    }
+    .about-picture {
+        height: 758px;
+    }
+    .service-content {
+        margin-top: 40px;
+    }
+    .service-carousel .owl-nav div {
+        top: -175px;
+    }
+    .service-area {
+        margin: 0px 15px;
+    }
+
+
+    .project-active .owl-nav .owl-prev {
+        left: 95px;
+    }
+    .project-active .owl-nav .owl-next {
+        right: 95px;
+    }
+    .project-content {
+        padding-top: 0px;
+    }
+    .project-carousel-title h3 {
+        font-size: 25px;
+        margin: 5px 0px;
+    }
+
+
+    .skill-title h2 {
+        font-size: 25px;
+        padding-top: 15px;
+        margin-bottom: 0px;
+    }
+    .skillbar-picture img {
+        margin-top: 40px;
+    }
+    .skill-bar h2 {
+        margin-top: 30px;
+    }
+
+
+    .news-item .news-img img {
+        height: 300px;
+    }
+    .news-details {
+        padding: 34px 20px 20px;
+    }
+
+
+
+
+    .industrial-logo-title h2 {
+        font-size: 37px;
+    }
+    .industrial-logo-text p {
+        font-size: 17px;
+    }
+
+
+    .newsletter-content h2 {
+        font-size: 25px;
+    }
+    .submit input {
+        width: 300px;
+    }
+    .submit .submit-btn {
+        padding: 16px 35px;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .logo {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .main-menu ul li {
+        margin-left: 0px;
+        margin-right: 16px;
+    }
+    .right-btn span a i {
+        display: none;
+    }
+    .btn {
+        font-size: 14px;
+        letter-spacing: 0px;
+        padding: 15px 15px;
+    }
+    .banner-text h2 {
+        font-size: 30px;
+        line-height: 43px;
+    }
+    .banner-text p {
+        font-size: 25px;
+    }
+    .transforming-content {
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .transforming-title h2 {
+        font-size: 30px;
+    }
+    .transforming-title {
+        margin-bottom: 15px;
+    }
+    .counter-box {
+        padding: 15px 0px;
+    }
+    .counter-box span {
+        font-size: 25px;
+    }
+    .counter-box h5 {
+        font-size: 14px;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .recent-project-head h2 {
+        font-size: 35px;
+    }
+    .transforming-picture img {
+        height: 335px;
+    }
+    .single-machine {
+        margin-bottom: 50px;
+    }
+    .about-list {
+        margin-bottom: 30px;
+        margin-left: 0px;
+    }
+    .about-list ul li {
+        font-size: 14px;
+    }
+    .about-picture {
+        width: 45%;
+        height: 680px;
+    }
+    .about-list ul li span i {
+        width: 13px;
+        height: 13px;
+        font-size: 10px;
+        line-height: 14px;
+        margin-right: 5px;
+    }
+    .service-content {
+        margin-top: 35px;
+    }
+    .service-text p {
+        font-size: 15px;
+    }
+    .project-active .owl-nav .owl-prev {
+        left: 0px;
+    }
+    .project-active .owl-nav .owl-next {
+        right: 0px;
+    }
+    .get-content {
+        padding: 40px 30px;
+    }
+    .get-icon img {
+        width: 50px;
+        height: 55px;
+    }
+    .get-text h3 {
+        font-size: 20px;
+    }
+    .get-text p {
+        font-weight: 600;
+        font-size: 12px;
+    }
+
+    .project-picture img {
+        height: 290px;
+    }
+    .project-content {
+        padding-top: 15px;
+        padding-left: 0px;
+    }
+    .project-carousel-title h3 {
+        font-size: 25px;
+    }
+    .skillbar-picture {
+        margin: 50px 0px;
+    }
+    .news-item .news-img img {
+        height: 270px;
+    }
+    .news-details {
+        padding: 30px 5px;
+    }
+    .news-title h3 {
+        font-size: 17px;
+        line-height: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+    .news-date p {
+        font-size: 14px;
+    }
+    .testimonial-text p {
+        font-size: 16px;
+    }
+    .industrial-logo-title h2 {
+        font-size: 30px;
+    }
+    .industrial-logo-text p {
+        font-size: 15px;
+    }
+    .newsletter-content h2 {
+        font-size: 28px;
+    }
+    .submit input {
+        width: 220px;
+    }
+    .submit .submit-btn {
+        padding: 16px 21px;
+    }
+    .footer-logo-content {
+        margin-bottom: 85px;
+    }
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .section-padding {
+        padding: 0px 0px;
+    }
+    .top-social {
+        text-align: center;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+    .top-list ul li {
+        margin-right: 10px;
+    }
+    .top-list {
+        text-align: center;
+        margin-bottom: 15px;
+        line-height: 35px;
+    }
+    .top-list ul li {
+        margin-right: 0px;
+    }
+    .logo {
+        text-align: center;
+        margin: 20px 0px;
+    }
+    .banner-area {
+        margin-top: 15px;
+    }
+    .mean-container .mean-nav ul li a i {
+        margin-left: 20px;
+    }
+    .banner-content {
+        padding: 100px 0px;
+    }
+    .banner-text h2 {
+        font-size: 31px;
+        line-height: 45px;
+    }
+    .banner-text p {
+        font-size: 25px;
+        margin-top: 20px;
+        line-height: 35px;
+    }
+    .btn {
+        font-size: 12px;
+        letter-spacing: 0px;
+        padding: 15px 12px;
+    }
+    .banner-carousel .owl-nav div {
+        display: none;
+    }
+    .transforming-title h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+
+
+
+    .counter {
+        margin-right: 0px;
+    }
+    .counter-box span {
+        font-size: 25px;
+    }
+    .counter-box h5 {
+        font-size: 17px;
+    }
+    .transforming-picture img {
+        height: 260px;
+    }
+    .single-machine {
+        margin-top: 50px;
+    }
+    .about-picture {
+        display: none;
+    }
+    .about-content {
+        margin-left: 0px;
+    }
+    .about-list {
+        margin-left: 0px;
+    }
+    .service-title h2 {
+        font-size: 30px;
+    }
+    .service-content {
+        margin-top: 15px;
+        margin-right: 0px;
+        text-align: justify;
+    }
+    .service-carousel .owl-nav div {
+        top: -35px;
+        font-size: 15px;
+    }
+    .service-carousel .owl-nav .owl-prev {
+        right: 30px;
+    }
+    .service-carousel .owl-nav .owl-prev::before {
+        top: 6px;
+        height: 11px;
+        left: 19px;
+    }
+    .service-text h3 {
+        font-size: 20px;
+    }
+    .service-text a.service-btn {
+        font-size: 15px;
+    }
+    .get-content {
+        padding: 35px 19px;
+    }
+    .get-text h3 {
+        font-size: 23px;
+    }
+    .get-icon {
+        text-align: center;
+        float: inherit;
+    }
+    .get-text {
+        float: inherit;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .get-btn {
+        text-align: center;
+    }
+    .recent-projects-area {
+        padding: 50px 0px;
+    }
+    .recent-project-head h2 {
+        font-size: 26px;
+        padding-bottom: 12px;
+    }
+    .recent-project-head h2::before {
+        left: 28%;
+    }
+    .project-carousel-title h3 {
+        font-size: 23px;
+    }
+    .project-content {
+        padding-left: 0px;
+    }
+
+
+
+
+    .project-active .owl-dots div {
+        margin-top: 25px;
+        margin-right: 7px;
+    }
+    .project-active .owl-dots img {
+        width: 47px;
+        height: 47px;
+    }
+    .project-active .owl-nav .owl-next,
+    .project-active .owl-nav .owl-prev {
+        display: none;
+    }
+
+
+
+    .skillbar-area {
+        padding: 50px 0px;
+    }
+    .skill-title h2 {
+        font-size: 27px;
+        line-height: 48px;
+        margin-bottom: 0px;
+    }
+    .skill-bar h2 {
+        margin-top: 20px;
+    }
+    .skillbar-picture img {
+        padding-left: 0px;
+    }
+    .skillbar-picture {
+        padding: 30px 0px;
+    }
+    .testimonial-area {
+        padding: 50px 0px;
+    }
+    .testimonial-area {
+        margin: 0px 14px;
+        margin-top: -20px;
+    }
+    .testimonial-picture span.left-icon {
+        padding-right: 25px;
+    }
+    .testimonial-picture span.right-icon {
+        padding-left: 25px;
+    }
+    .testimonial-text p {
+        font-size: 16px;
+        line-height: 36px;
+        text-align: justify;
+    }
+
+
+    .industrial-news-area {
+        padding: 50px 0px;
+    }
+    .news-item .news-img img {
+        height: 300px;
+    }
+    .news-details {
+        padding: 34px 10px;
+    }
+    .news-item {
+        margin-bottom: 50px;
+    }
+    .industrial-logo-title h2 {
+        font-size: 29px;
+        text-align: justify;
+    }
+    .industrial-logo-text p {
+        margin: 0;
+        text-align: justify;
+        font-size: 16px;
+    }
+    .our-newsletter-area {
+        margin-top: 50px;
+    }
+    .newsletter-content h2 {
+        font-size: 23px;
+    }
+    .submit input {
+        padding: 10px 15px;
+        width: 100%;
+        float: inherit;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .submit .submit-btn {
+        padding: 10px 32px;
+        float: inherit;
+        display: inline-block;
+    }
+    .footer-content-title {
+        margin-top: 50px;
+    }
+    .recent-title h3 {
+        font-size: 15px;
+    }
+    .copyright p {
+        text-align: center;
+    }
+    .footer-bottom-icon {
+        float: inherit;
+        text-align: center;
+    }
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
